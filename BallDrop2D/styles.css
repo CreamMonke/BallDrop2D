@@ -1,0 +1,18 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    height: 600px;
+    box-sizing: border-box;
+    overflow: hidden;
+    background-color: black;
+    border: 0;
+    user-select: none;
+    outline: none;
+}
+
+#canvas
+{
+    background-color: black;
+}
